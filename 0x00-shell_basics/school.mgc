@@ -1,0 +1,3 @@
+file -C -m school.mgc
+file - -mime-type -m shool.mgc*
+file -m school.mgc *
